@@ -23,11 +23,16 @@ This project is a simple Flask-based web application that provides CRUD (Create,
 
 ## Project Structure
 
-├── app.py # Main application code\
-├── Dockerfile # Docker image configuration 
+├── app.py # Main application code
+
+├── Dockerfile # Docker image configuration
+
 ├── docker-compose.yml # Docker Compose configuration 
+
 ├── requirements.txt # Python dependencies 
+
 ├── u_test.py # Unit tests using pytest 
+
 └── README.md # Project documentation
 
 
@@ -44,5 +49,5 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/FONZ000/DIPS1stLab.git>
    cd <repository-directory>
