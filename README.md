@@ -23,7 +23,12 @@ This project is a simple Flask-based web application that provides CRUD (Create,
 
 ## Project Structure
 
-├── app.py # Main application code ├── Dockerfile # Docker image configuration ├── docker-compose.yml # Docker Compose configuration ├── requirements.txt # Python dependencies ├── u_test.py # Unit tests using pytest └── README.md # Project documentation
+├── app.py # Main application code\
+├── Dockerfile # Docker image configuration 
+├── docker-compose.yml # Docker Compose configuration 
+├── requirements.txt # Python dependencies 
+├── u_test.py # Unit tests using pytest 
+└── README.md # Project documentation
 
 
 ## Setup
@@ -41,6 +46,3 @@ Ensure you have the following installed on your machine:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-
-   
-docker-compose up --build
