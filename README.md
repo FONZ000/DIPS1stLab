@@ -49,5 +49,5 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/FONZ000/DIPS1stLab.git>
+   git clone https://github.com/FONZ000/DIPS1stLab.git
    cd <repository-directory>
